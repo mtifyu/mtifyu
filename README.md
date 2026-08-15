@@ -1,4 +1,4 @@
-## Hi, I'm Yumzhana
+ Hi, I'm Yumzhana
 
 - 4th-year student at FEFU | Mathematics & Computer Science
 - Current focus: Data Science & Artificial Intelligence
@@ -17,4 +17,3 @@
   </a>
 </p>
 
-[Telegram](https://t.me/mtifyu)
